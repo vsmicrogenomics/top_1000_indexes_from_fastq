@@ -1,6 +1,6 @@
 # top_1000_indexes_from_fastq
 
-This repository contains a Python script to extract the top 1000 paired indexes from paired-end FASTQ files of undetermined sequences (indexes not matching with any sample). The script reads the indexes from the provided FASTQ files, combines paired indexes, counts their frequencies, and outputs the top 1000 paired indexes along with their frequencies.
+This repository contains a Python script to extract the top 1000 paired indexes from paired-end FASTQ files (uncompressed). The script reads the indexes from the provided FASTQ files, combines paired indexes, counts their frequencies, and outputs the top 1000 paired indexes along with their frequencies.
 
 ## Files in this Repository
 
