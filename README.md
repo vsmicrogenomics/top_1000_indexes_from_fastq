@@ -20,6 +20,7 @@ pip install biopython
 
 
 ## Usage
+
 Prepare your FASTQ files: Ensure you have your paired-end FASTQ files named Undetermined_S0_R1_001.fastq and Undetermined_S0_R2_001.fastq.
 
 Place the FASTQ files: Place the FASTQ files in the same directory as the script or provide the correct path to them.
