@@ -17,7 +17,7 @@ To install the required Python library, run:
 
 ```bash
 pip install biopython
-
+```
 
 ## Usage
 
@@ -43,4 +43,3 @@ NCTTAGTATA NCTTTCCCTA: 140
 
 If you use this script for your research, please consider citing it as follows:
 Sharma, V. (2024). extract_top_1000_indexes.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/top_1000_indexes_from_fastq
-
